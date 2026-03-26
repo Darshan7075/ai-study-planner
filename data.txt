@@ -1,0 +1,6 @@
+study_hours,sleep_hours,stress_level,distraction,iq_score
+4,7,3,2,6
+6,6,2,1,8
+2,5,4,5,4
+5,8,2,2,7
+7,7,1,1,9
